@@ -1,0 +1,4 @@
+<?php
+//PHP INFO
+    phpinfo();
+?>
